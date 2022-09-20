@@ -1,0 +1,55 @@
+1. #include<stdio.h>
+2. #include<string.h>
+3. #include<conio.h>
+4. #include<math.h>
+5. float        id x1 = 3.125;;;
+6. 
+7. double id f1(float id a,int id x)
+8. {if(id x<id x1)
+9. double id z;;
+:. else id z =           0.01;}}
+;. if();
+<. else  return id z;
+=. }
+>. 
+?. 
+@. 
+A. float id sol(int id x)
+B. {
+C. return 5.0;
+D. }
+E. 
+F. int id main()
+G. {
+H. int id n1; double id z;
+I. for(;;;);
+J. id n1=25; id z=id f1(id n1);
+K. int id y = -1;
+L. int id x  = 5+id z;
+M. int id i;
+N. int id count  =0 ;
+O. for(id i=0;id i<id x;id i++)
+P. id count = id count+1;
+Q. 
+R. while(id count>0)
+S. {
+T. if(count%2==0)
+U. printf("count value even\n");
+V. else
+W. {
+X. printf("count value odd\n");
+Y. }
+Z. id count--;
+[. }
+\. if(id count==0)
+]. {
+^. printf("Again testing"); 
+_. 
+`. 
+a. }
+b. float id p = id sol(id x);
+c. id p = id p+ 2.9*3.8;
+d. id x = 4*6+2-5*3
+e. 
+f. 
+g. 
